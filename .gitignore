@@ -1,0 +1,9 @@
+*.exe
+*.local
+*.identcache
+/__history
+/Unit/__history
+*.dcu
+*.FDB
+*.FBK
+*.FDB2
